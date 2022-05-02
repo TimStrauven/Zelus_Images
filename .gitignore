@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+xarchive/
+lightning_logs/
+image_classification_model.pt
