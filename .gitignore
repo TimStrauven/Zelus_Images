@@ -129,5 +129,8 @@ dmypy.json
 .pyre/
 
 xarchive/
+dev_archive/
+archive/
+
 lightning_logs/
-image_classification_model.pt
+data/
