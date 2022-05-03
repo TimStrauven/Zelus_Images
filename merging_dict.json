@@ -1,0 +1,46 @@
+{
+    "bags": [
+        "bag",
+        "bags",
+        "holdalls",
+        "backpacks",
+        "clutches"
+    ],
+    "shoes": [
+        "shoe",
+        "shoes",
+        "boots",
+        "sandals",
+        "sneakers"
+    ],
+    "gloves": [
+        "glove",
+        "gloves",
+        "mittens",
+        "mitten",
+        "mitt"
+    ],
+    "scarves": [
+        "scarf",
+        "scarves",
+        "shawls",
+        "shawl",
+        "shawl"
+    ],
+    "hats": [
+        "hat",
+        "hats",
+        "headwear",
+        "headgear",
+        "headpiece",
+        "headpieces"
+    ],
+    "sunglasses": [
+        "sunglasses",
+        "sunglass"
+    ],
+    "watch": [
+        "watch",
+        "watches"
+    ],
+}

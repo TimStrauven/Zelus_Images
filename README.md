@@ -10,4 +10,4 @@ https://github.com/pierre-warnier/vinted
 First extract the full dataset into a folder called "archive"
 then run both cells in create_test_folders.ipynb to create a train/val/test set from the train/val folders
 
-then explore creation of the model in flash.ipynb
+Then explore creation of the model in flash.ipynb
