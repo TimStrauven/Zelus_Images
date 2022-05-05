@@ -1,46 +1,10 @@
 {
     "bags": [
-        "bag",
-        "bags",
-        "holdalls",
-        "backpacks",
-        "clutches"
+        "women__bags__bum_bags",
+        "women__bags__patterned_and_embroidered_bags"
     ],
     "shoes": [
-        "shoe",
-        "shoes",
-        "boots",
-        "sandals",
-        "sneakers"
-    ],
-    "gloves": [
-        "glove",
-        "gloves",
-        "mittens",
-        "mitten",
-        "mitt"
-    ],
-    "scarves": [
-        "scarf",
-        "scarves",
-        "shawls",
-        "shawl",
-        "shawl"
-    ],
-    "hats": [
-        "hat",
-        "hats",
-        "headwear",
-        "headgear",
-        "headpiece",
-        "headpieces"
-    ],
-    "sunglasses": [
-        "sunglasses",
-        "sunglass"
-    ],
-    "watch": [
-        "watch",
-        "watches"
-    ],
+        "men__shoes__sandals",
+        "men__shoes__sports_shoes__outdoors_and_hiking"
+    ]
 }

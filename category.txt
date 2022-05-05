@@ -1,0 +1,17 @@
+1. shoes
+2. bags
+3. pants
+4. shirts
+5. jackets
+6. jeans
+7. skirts
+8. blazers
+9. swimwear
+10. sweater
+11. hats
+12. jewelry
+13. scarves
+14. belts
+15. gloves
+16. rompers
+17. glasses
